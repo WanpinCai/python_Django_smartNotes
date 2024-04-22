@@ -1,0 +1,2 @@
+# python_Django_smartNotes
+firstProject_PYTHON
